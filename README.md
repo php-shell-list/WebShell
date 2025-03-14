@@ -1,2 +1,2 @@
 # WebShell
-WebShell is a collection of tools developed for cybersecurity experts and penetration testers that enable the execution of commands on target systems using server-side scripting languages. It includes a variety of web shell applications for PHP, ASP.NET, and other web technologies. These tools are designed to detect vulnerabilities,
+Web Shell Detector is a PHP script designed to identify PHP, CGI (Perl), ASP/ASPX shells. It uses a "web shells" signature database to detect shells with up to 99% accuracy. The tool features a lightweight and user-friendly interface built with modern JavaScript and CSS technologies.
